@@ -57,7 +57,7 @@
       },
       {
         "displayName": "Value",
-        "description": "(Optional) Numeric values associated to locations, defaut is one",
+        "description": "(Optional) Numeric values associated to locations, default is one",
         "name": "value",
         "kind": "Measure",
         "preferredTypes": [
